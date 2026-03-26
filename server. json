@@ -1,6 +1,13 @@
 {
- "latest_version": 15500201,
- "force_update": true,
- "update_message": "নতুন আপডেট এসেছে! এখনই আপডেট করুন।",
- "update_link": "https://t.me/freenet39"
+"appName": "CapCut",
+"packageName": "com.lemon.lvoverseas",
+"versionCode": 15500200,
+"updateUrl": "https://t.me/+MSa8uMZUrKIwMjM1",
+"title": "New Update Available!",
+"description": "Your current version is outdated. Join our Telegram channel to download the latest update and premium features.",
+"isForce": false,
+"isExpired": false,
+"expiryDate": "2027-12-31",
+"closeButtonText": "Cancel",
+"updateButtonText": "Join Telegram"
 }
